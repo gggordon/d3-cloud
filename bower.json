@@ -1,6 +1,6 @@
 {
-  "name": "d3-cloud",
-  "version": "1.2.1",
+  "name": "d3-wordcloud",
+  "version": "1.2.2",
   "main": "index.js",
   "ignore": [
     ".DS_Store",
